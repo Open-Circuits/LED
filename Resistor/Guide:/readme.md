@@ -1,0 +1,1 @@
+- [How to Calculate the Correct Resistor for LEDs Light Emitting Diodes](https://youtu.be/C7X0uoxsIiQ)
